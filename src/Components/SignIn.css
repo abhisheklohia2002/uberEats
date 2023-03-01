@@ -1,0 +1,179 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.sign_div_login{
+    /* border: 2px solid black; */
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    place-content: center;
+    place-items: center
+    ;
+    padding-top: 5vh;
+}
+
+.div_one{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    width: 25vw;
+    text-align: left;
+    margin: auto;
+
+}
+
+.input-slots{
+    width: 23vw;
+    height: 3vw;
+    font-size: 15px;
+    border-radius: 1vw;
+    padding-left: 2vw;
+    margin-top: 1vw;
+}
+.continue{
+    width: 25vw;
+    height: 3vw;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    margin: auto;
+/* display: flex; */
+text-align: center;
+justify-content: center;
+
+margin-top: 1.2vw;
+border-radius: 0.8vw;
+
+
+}
+
+.center-continue{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 0.8vw;
+}
+.center-continue:hover{
+    cursor: pointer;
+    /* background-color: gray; */
+
+}
+.center-continue:hover{
+    cursor: pointer;
+    /* background-color: gray; */
+}
+
+.or{
+    width: 25vw;
+    height: 0.6vw;
+    margin: auto;
+    margin-top: 1.2vw;
+border: 2px solid gray;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+color: gray;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+}
+
+.continue-googel{
+    width: 25vw;
+    height: 3vw;
+    font-size: 15px;
+    background-color: #dbd4d4;
+    color: rgb(50, 44, 44);
+    font-weight: 500;
+    margin: auto;
+/* display: flex; */
+text-align: center;
+justify-content: center;
+
+margin-top: 1.6vw;
+border-radius: 0.8vw;
+
+}
+
+.googleicon{
+    height: 1.5vw;
+    width: 2vw;
+    color: black;
+}
+
+.span-google{
+    position: relative;
+    bottom: 0.3vw;
+}
+
+
+
+.continue-apple{
+    width: 25vw;
+    height: 3vw;
+    font-size: 15px;
+    background-color: #dbd4d4;
+    color: rgb(50, 44, 44);
+    font-weight: 500;
+    margin: auto;
+/* display: flex; */
+text-align: center;
+justify-content: center;
+
+margin-top: 0.6vw;
+border-radius: 0.8vw;
+
+}
+
+
+
+.continue-facebook{
+    width: 25vw;
+    height: 3vw;
+    font-size: 15px;
+    background-color: #dbd4d4;
+    color: rgb(50, 44, 44);
+    font-weight: 500;
+    margin: auto;
+/* display: flex; */
+text-align: center;
+justify-content: center;
+
+margin-top: 0.8vw;
+border-radius: 0.8vw;
+
+}
+
+.continue-brif{
+    width: 25vw;
+    height: 3vw;
+    font-size: 12px;
+    /* background-color: #dbd4d4; */
+    color: rgb(50, 44, 44);
+    font-weight: 500;
+    margin: auto;
+/* display: flex; */
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+justify-content: center;
+
+margin-top: 3vw;
+border-radius: 0.8vw; 
+}
+
+
+
+.input-phone{
+    text-align: center;
+    margin: auto;
+    margin-top: 2vw;
+}
+
+.input-button{
+    margin-top: 2vw;
+    width: 25vw;
+    height: 3vw;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    outline: none;
+}

@@ -1,0 +1,42 @@
+
+
+
+.flex-data{
+    border: 2px solid black;
+    width: 17vw;
+    height: 18vw;
+   margin-left: 4.5vw;
+   margin-top: 5vw;
+   text-align: center;
+}
+
+.image-data{
+    height: 10vw
+}
+
+.name{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.price{
+    padding-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.btn{
+   margin-top: 10px;
+    background-color: black;
+    color: white;
+
+    height: 2vw;
+    width: 10vw;
+    outline: none;
+    border-radius: 5px;
+}

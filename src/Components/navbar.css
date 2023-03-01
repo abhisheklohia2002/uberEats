@@ -1,0 +1,65 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.uber_div_logo{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    /* text-align: center;
+place-content: 
+center; */
+}
+.image_uber-logo{
+    height: 5vw;
+    /* padding-left: 4vw; */
+
+}
+.image_uber-logo:hover{
+    cursor: pointer;
+}
+
+.shoppingcart{
+    color: bisque;
+    height: 10vw;
+}
+.shoppingcart:hover{
+    cursor: pointer;
+}
+.div1{
+    /* border: 2px solid white; */
+    padding-left: 2vw;
+}
+.main-box{
+    display: flex;
+    margin-right: 5vw;
+    
+text-align: center;
+justify-content: space-around;
+place-content: center;
+height: 3vw;
+margin-top: 2vw;
+}
+.div3{
+    margin-right: 2vw;
+}
+
+.text-input{
+    text-align: center;
+    margin-top: 2vw;
+}
+
+.divLoad{
+ /* border: 2px solid black; */
+ position: relative;
+ left: 
+ 45vw;
+ top: 2vw;
+ animation: mymove 4s infinite;
+}
+
+@keyframes mymove {
+    50% {transform: rotate(360deg);}
+  }
